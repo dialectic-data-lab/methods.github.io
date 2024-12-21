@@ -2,7 +2,7 @@
 title: "methods.github.io"
 ---
 
-This is a Quarto website.
+This is a Quarto website. Styled with lux.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
